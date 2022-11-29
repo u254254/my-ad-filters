@@ -1,0 +1,1 @@
+##div:has(> div#Mob001) ! obscure rule to remove empty space in gentlysallim.com
